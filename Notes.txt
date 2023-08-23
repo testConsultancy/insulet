@@ -258,10 +258,10 @@ Insulin pumps provide a number of features to help the user control their glucos
 BASAL => steady flow of insulin
 
  The calculator in the insulin pump needs to know what glucose levels are acceptable and desired.  The healthcare provider will provide the user with a target range that the Bolus Calculator can use to help recommend the right amount of insulin.  
- The insulin to carbohydrate or IC Ratio specifies how many carbohydrates are covered by one unit of insulin. The user needs to enter the grams of carbohydrates consumed and the Bolus calculator will recommend the amount of insulin to 'cover' the grams of carbohydrates consumed.
+ The insulin to carbohydrate or IC RATIO specifies how many carbohydrates are covered by one unit of insulin. The user needs to enter the grams of carbohydrates consumed and the Bolus calculator will recommend the amount of insulin to 'cover' the grams of carbohydrates consumed.
  The CORRECTION FACTOR defines how much one unit of insulin will lower the blood glucose (sometimes this is called the Sensitivity Factor--how sensitive are you to 1 unit of insulin?). For example, if the Correction Factor is 50, one unit of insulin will lower the glucose level by 50mg/dl (2.8mmol/L).
 
-bolus calculator -> grams of carbs / unit of insuline
+bolus calculator -> IC RATIO = grams of carbs / unit of insulin
 
 INSULINE ACTION
 The duration of Insulin Action is the length of time that insulin stays active in the body -or how long a bolus of insulin takes to finish lowering the blood glucose. Insulin doesn't work the same for everyone with diabetes, so this setting helps the pump recognize insulin activity in the user.
@@ -289,3 +289,82 @@ The goal of these products is to reduce or eliminate hypoglycemia, improve time 
 -----
 Continuous Glucose Monitor -> is NOT INSULINE DELIVERY
 -----
+An AID system is an insulin pump that communicates with a continuous glucose monitor (CGM) and a smart algorithm to automatically adjust insulin delivery.
+-----
+EVERY 5 minutes glucose level is updated with CGM
+-----
+CGM -> sends alarms
+OMNIPOD 5 => AID
+-----
+3 parts of CGM system: sensor, transmitter, and app or receiver
+trend arrows in CGM system -> informs the direction the glucose is heading
+total daily insulin -> amount delivered each day including user boluse and algoriths calculations
+duration of insulin action -> amount of time rapid acting insulin lowers glucose after a bolus is given
+AID -> has to modes, automated and manual
+-----
+https://my.allego.com/play.do?contentId=3646564&sch=124858&fid=54443
+
+1. What are some types of insulin delivery devices?
+➢ Expected Answer: needles/syringes, insulin pens, insulin pumps
+
+2. What type of insulin do insulin pumps use?
+➢ Expected Answer: rapid or short acting insulin
+
+3. How does an insulin pump deliver insulin? 
+➢ Expected Answer: A small amount of continuous insulin—called basal insulin is being
+delivered. The user will give additional insulin (bolus) for meals and to correct a high
+glucose level.
+
+4. What does CGM stand for?
+➢ Expected answer: Continuous Glucose Monitoring (Monitor)
+
+5. How often is the glucose level updated with CGM?
+➢ Expected Answer: every 5 minutes
+
+6. What is one value of using a CGM system?
+➢ Expected answer: no fingersticks, can tell direction the glucose is heading; alerts and
+alarm help user know what is happening
+
+7. What does AID stand for?
+➢ Expected answer: Automated Insulin Delivery System
+
+▪ What is the name of Insulet’s AID system?
+• Omnipod 5
+
+8. What is an insulin to carb ratio?
+➢ Expected answer: the number of grams of carbohydrate that one unit of insulin will
+cover ie; a carb ratio or IC ratio of 15 states that 1 unit of insulin will ‘cover’ 15 grams of
+carbohydrates; if the customer is eating 30 grams of carbs they would need 2 units of
+insulin for those carbs consumed
+
+9. What is a correction factor?
+➢ Expected answer: The number that will be lowered in glucose value by 1 unit of insulin
+ie; Correction factor of 50 lowers the glucose by 50 points
+
+10. How does an automated insulin delivery system differ from an insulin pump?
+➢ Expected answer: The AID system uses an algorithm to help control the delivery of
+insulin to keep the user as close to target as possible. It uses the values from the CGM to
+complete the algorithm. The basal rate is ‘adaptive’ as the amount of basal changes
+based on the glucose levels.
+
+11. What are the part of a CGM system?
+➢ Expected answers: the sensor (under the skin) the transmitter which sits on top of
+sensor and transmits the data; the App or receiver, the inserter
+
+12. What are the importance of the trend arrows in the CGM system?
+➢ Expected answer: they tell the user the direction the glucose is heading
+
+13. What is the desired range of glucose according to the American Diabetes Association?
+➢ Expected answer: 70-180mg/dL
+
+14. In the AID system what is TDI or Total daily insulin?
+➢ Expected answer: the amount of insulin delivered each day including user boluses and
+algorithm calculations
+
+15. What is the duration of insulin action?
+➢ Expected answer: the amount of time rapid acting insulin lowers glucose after a bolus
+is given.
+
+16. What system has two different modes: Automated and Manual? The AID or an insulin
+pump?
+➢ Expected answer: the AID system.
