@@ -172,4 +172,65 @@ condition where the body begins to break down fat for energy in place of glucose
 The body will try to compensate by breaking down fat & protein to use for energy. This event produces ketones in the blood, which creates an acidic environment. 
 Acidic blood can cause DKA--which can cause a loss of consciousness, swelling in the brain, diabetic coma and even death. 
 -----
-OMNIPOD5 => ONLY one with a sensor [ContinuousGM]  
+OMNIPOD5 => ONLY one with a sensor [ContinuousGM] 
+----- 
+1. When was Insulet formed? 
+2000
+
+2. What is Insulet’s customer care number? 
+1-800-591-3455 option 4,
+
+3. What are our hours for product support? 
+24/7 365
+
+4. Up to how many hours can the Pod be worn? 
+72h
+
+5. What are the benefits of Omnipod therapy instead of multiple daily injections?  
+tubeless insulin pump, discreet, waterproof / Each Pod delivers insulin nonstop for 3 consecutive days (up to 72 hours)
+
+6. Why is Omnipod used by thousands of people with both Type 1 and Type 2 insulin-requiring diabetes? 
+If insulin therapy is needed, Omnipod DASH® Insulin Management System allows people with Type 2 diabetes to manage their blood sugar without multiple daily injections. 
+
+7. What brand is the food library in the DASH PDM? 
+Podder® | The CalorieKing®
+
+8. What activities can the Omnipod be worn for without needing to disconnect? 
+DASH® PDM contains a Food Library
+
+9. Where on your body can you wear the pod? 
+Arm and Leg: Position the Pod vertically or at a slight angle. Back, Abdomen and Buttocks: Position the Pod horizontally or at a slight angle.
+
+10. What ages are indicated for the Omnipod DASH? 
+Omnipod DASH® System is suitable for people of all ages and lifestyles living with diabetes requiring insulin.
+
+11. How long do the batteries last in the Omnipod System PDM? 
+The Personal Diabetes Manager’s batteries last approximately 3 weeks, depending on individual usage.
+
+12. How long do the batteries last in the Omnipod DASH PDM? 
+Omnipod DASH® is Comparable to a mobile smart phone device PDM battery life is based on usage.
+Here are some tips to conserve battery charge:
+- Reduce screen time-out duration and brightness in the Omnipod DASH®
+- PDM’s Settings to a place that suits your needs.
+- Respond to Notifications and Alarms promptly to avoid repeated alerts from the Omnipod DASH® PDM.
+- After a desired action is confirmed, put the Omnipod DASH®
+- PDM to sleep promptly by tapping the Power button once.
+
+13. How close does the PDM need to be to activate a pod? 
+To activate, the Pod must be placed adjacent to and touching the Personal Diabetes Manager ·
+
+14. Is the Pod waterproof?
+yes
+
+15. How often should patients test their blood glucose? 
+Check your blood glucose:
+• At least 4 to 6 times a day: when you wake up, before every meal, and before going to bed
+• Whenever you feel nauseated or sick
+• Before driving a car
+• Whenever your blood glucose has been running unusually high or low, or if you suspect that your blood glucose is high or low
+• Before, during, and after exercise
+• As directed by your healthcare provider
+
+16. What can be found on page 7 of the Patient Resource Guide? 
+How to Create and Use Temp Basal Presets
+-----
