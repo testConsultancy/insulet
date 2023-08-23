@@ -3,9 +3,7 @@ A serious, long-term condition occurring when there are increased levels of gluc
 The elevated levels of glucose in the blood stream is caused by the body's inability to produce enough, or any, insulin. Without insulin, the body is unable to use glucose for fuel. 
 
 Elevated glucose in the blood. Left untreated, high blood glucose can lead to serious health complications. 
-
 ----- 
-
 GLUCOSE: 
 
 => ENERGY 
@@ -19,9 +17,7 @@ Some medications
 Growth hormones 
 Too much, or too little, insulin 
 Fatty meals 
-
 ----- 
-
 Insulin -> regulates glucose in the body 
 Stomach ->  glucose into blood stream 
 Pancreas -> insulin into cells 
@@ -31,7 +27,6 @@ Pancreas -> insulin into cells
 => THEN glucose in blood stream returns to normal 
 
 WHEN above process malfunctions => diabetes 
-
 ----- 
 Diabetest1 
 
@@ -178,5 +173,3 @@ The body will try to compensate by breaking down fat & protein to use for energy
 Acidic blood can cause DKA--which can cause a loss of consciousness, swelling in the brain, diabetic coma and even death. 
 -----
 OMNIPOD5 => ONLY one with a sensor [ContinuousGM]  
-
- 
