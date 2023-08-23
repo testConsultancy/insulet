@@ -253,7 +253,7 @@ Insulin cannot be ingested by mouth. It is  taken by injection(needle), insulin 
 Insulin pumps use rapid or short-acting insulin. Remember those words and bolus and basal?  Insulin pumps provide a small amount of continuous insulin called the BASAL RATE.
 And the user can take a BOLUS of insuline to cover carbs eaten to correct a high blood glucose.
 -----
-Insulin pumps provide a number of features to help the user control their glucose. The pumps use a 'bolus calculator' to help determine the amount of insulin needed.  Let's look at some these options.
+Insulin pumps provide a number of features to help the user control their glucose. The pumps use a 'bolus calculator' to help determine the amount of insulin needed.
 
 BASAL => steady flow of insulin
 
