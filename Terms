@@ -18,6 +18,8 @@ CGM = Continuous Glucose Monitor [sensor]
 
 PDM = Personal Diabetes Manager 
 
+RFC = 
+
 CONTROLLER 
 Eros 
 Dash 

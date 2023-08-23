@@ -28,7 +28,7 @@ Pancreas -> insulin into cells
 
 WHEN above process malfunctions => diabetes 
 ----- 
-Diabetest1 
+** DIABETES 1 ** 
 
 Autoimmune system attacks the insulin producing cells of the pancreas 
 
@@ -48,15 +48,13 @@ Time in Range (TIR) is the way the healthcare community is starting to look at b
 ------ 
 Self Monitoring Blood Glucose 
 Continuous Glucose Monitor 
------ 
------ 
-DIABETES2 
+-----  
+** DIABETES 2 **
 ----- 
 Insulin resistance 
 Cells do not respond properly to insulin 
 Pancreas produce extra insulin 
 Glucose rises as insulin is unable to enter cells 
------ 
 ----- 
 Diving deeper: type 1 diabetes 
 ----- 
@@ -93,7 +91,6 @@ A1C
 - glucometer [Self Monitoring SMBG] 
 - sensor [Continuous Monitoring CGM] 
 ----- 
------ 
 T2D [factors can ] 
 - genetics, weight, ethnicity, family history, smoking, and inactivity 
 two factors happening in the body related to insulin and development T2D 
@@ -108,7 +105,7 @@ options for treatment for Type 2 diabetes
 two types of insulin 
 - basal insulin [overnight, between meals] [one unit per hour] 
 - bolus insulin [before meals, OR WHEN glucose is high] [dosed manually] [requires a calculator] 
-calculator : input: carbs, BG | output: units [insulin units] 
+calculator => input: carbs, BG | output: units [insulin units] 
 
 types diabetes 
 - 90-95% Type 1 [Omnipod] 
@@ -130,34 +127,34 @@ common symptoms:
 shaky. sweaty, dizzy, confusion and difficulty speaking, hungry, weak or tired, headeache, nervous or upset 
 
 in case of hypoglycemia: 
-check BG 
-15grams of fast acting carbs 
-15 min interval => check BG 
-adminiter glucagon 
------- 
-What could cause hypoglycemia?: 
--Too much insulin or diabetes medications 
--Exercise or physical activity without adjusting medication or food intake 
--Not eating enough carbohydrates for the insulin in the body 
--Timing of insulin/medications
--Alcohol consumption 
------ 
+- check BG 
+- 15grams of fast acting carbs 
+- 15 min interval => check BG 
+- administer glucagon 
+------
 The "Rule of 15" 
-Consume at least 15 grams of fast acting carbohydrates (see examples of carbs to your right) 
-Wait 15 minutes and then recheck BG levels 
-If BG is still less than 70 mg/dL  (3.9mmol/L) or symptoms persist, repeat the Rule of 15 
-If BG is greater than 80 mg/dL (4.4 mmol/L), follow with a snack or meal 
+- Consume at least 15 grams of fast acting carbohydrates (see examples of carbs to your right) 
+- Wait 15 minutes and then recheck BG levels 
+- If BG is still less than 70 mg/dL  (3.9mmol/L) or symptoms persist, repeat the Rule of 15 
+- If BG is greater than 80 mg/dL (4.4 mmol/L), follow with a snack or meal 
 ----- 
+What could cause hypoglycemia?: 
+- Too much insulin or diabetes medications 
+- Exercise or physical activity without adjusting medication or food intake 
+- Not eating enough carbohydrates for the insulin in the body 
+- Timing of insulin/medications
+- Alcohol consumption 
+-----  
 Hyperglycemia is abnormally high levels of glucose (greater than 180mg/dl or 10 mmol/L) in 
 the blood. 
 It occurs when the body does not produce or have enough insulin to use. Some causes may be not having enough insulin for the amount of carbohydrates consumed, stress, illness, expired insulin or lack of insulin delivery from an insulin pump.  
 
 What can cause hyperglycemia? 
--Not taking enough insulin for glucose needs 
--Illness, stress, or infection that raises glucose levels 
--Certain medications, such as steroids or chemotherapy 
--Using expired insulin 
--Not taking the correct amount of insulin for the food consumed 
+- Not taking enough insulin for glucose needs 
+- Illness, stress, or infection that raises glucose levels 
+- Certain medications, such as steroids or chemotherapy 
+- Using expired insulin 
+- Not taking the correct amount of insulin for the food consumed 
 
 I-nsulin pump infusion site that is not working 
 ------ 
@@ -203,12 +200,16 @@ No need to disconnect for swimming or bathing
 
 9. Where on your body can you wear the pod? 
 Arm and Leg: Position the Pod vertically or at a slight angle. Back, Abdomen and Buttocks: Position the Pod horizontally or at a slight angle.
+Legs: should be on the front 
 
 10. What ages are indicated for the Omnipod DASH? 
 Omnipod DASH® System is suitable for people of all ages and lifestyles living with diabetes requiring insulin.
+- omnipod 5 => +2 years old
+- omnipod gold => +18 years old
 
 11. How long do the batteries last in the Omnipod System PDM? 
 The Personal Diabetes Manager’s batteries last approximately 3 weeks, depending on individual usage.
+- EROS -> UST400 -> OLD device 
 
 12. How long do the batteries last in the Omnipod DASH PDM? 
 Omnipod DASH® is Comparable to a mobile smart phone device PDM battery life is based on usage.
@@ -234,6 +235,6 @@ Check your blood glucose:
 • Before, during, and after exercise
 • As directed by your healthcare provider
 
-16. What can be found on page 7 of the Patient Resource Guide? 
+16. What can be found on page 48 of the Patient Resource Guide? 
 How to Create and Use Temp Basal Presets
 -----
