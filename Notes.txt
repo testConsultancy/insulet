@@ -1,1 +1,182 @@
+A serious, long-term condition occurring when there are increased levels of glucose in the body or blood stream 
 
+The elevated levels of glucose in the blood stream is caused by the body's inability to produce enough, or any, insulin. Without insulin, the body is unable to use glucose for fuel. 
+
+Elevated glucose in the blood. Left untreated, high blood glucose can lead to serious health complications. 
+
+----- 
+
+GLUCOSE: 
+
+=> ENERGY 
+
+Carbs [greatest impact]> glucose > energy for body cells 
+
+additional factors [impacting glucose]: 
+Too much, or too little, exercise 
+Stress 
+Some medications 
+Growth hormones 
+Too much, or too little, insulin 
+Fatty meals 
+
+----- 
+
+Insulin -> regulates glucose in the body 
+Stomach ->  glucose into blood stream 
+Pancreas -> insulin into cells 
+
+=> THEN glucose is entered in the cells to be used as energy 
+
+=> THEN glucose in blood stream returns to normal 
+
+WHEN above process malfunctions => diabetes 
+
+----- 
+Diabetest1 
+
+Autoimmune system attacks the insulin producing cells of the pancreas 
+
+Insuline -> only treatment [syranges, pen, inhaled, pumps] 
+----- 
+Gestational diabetes -> diagnosed during pregnancy 
+----- 
+Blood Glucose (BG) Levels 
+
+In the US, the unit of measure is milligrams/deciliter, or mg/dL. 
+In Europe and Canada, millimole per liter, or mmol/L may be used. 
+Someone without diabetes will have BG values between 70-140 mg/dL or 3.89 - 7.77 mmol/L  
+----- 
+Also called simply A1C, this is the average blood glucose levels over a 3-month period. A1C has been the standard to determine control of blood glucose with under 7% being the recommendation by the American Diabetes Association (ADA) for the majority of people with diabetes.  
+----- 
+Time in Range (TIR) is the way the healthcare community is starting to look at blood glucose control. This reviews the amount of time a person with diabetes is in the target range of 70-180 mg/dL (3.9-10.0 mmol/L) and how often one sees fluctuations above or below that range.  
+------ 
+Self Monitoring Blood Glucose 
+Continuous Glucose Monitor 
+----- 
+----- 
+DIABETES2 
+----- 
+Insulin resistance 
+Cells do not respond properly to insulin 
+Pancreas produce extra insulin 
+Glucose rises as insulin is unable to enter cells 
+----- 
+----- 
+Diving deeper: type 1 diabetes 
+----- 
+Two types of manufactured insulin: 
+Basal -> 6 shots a day 
+Bolus -> once or twice a day 
+----- 
+MDI, or Multiple Daily Injections, is a common method of treating Type 1 Diabetes. The individual with diabetes takes a shot of long-acting insulin (basal) in the morning and supplements with additional shots of rapid-acting insulin (bolus) when they eat, or if they need to correct a high blood glucose reading. 
+----- 
+The insulin pump uses a small cannula, or tube, that is inserted under the skin to allow the delivery of insulin. The cannula, Pod, or infusion set is changed every 2-3 days. 
+Pumps require basal insulin and can be programmed to deliver insulin automatically. No shots to deliver insulin at mealtimes!  
+----- 
+ There are two important concepts that a person with Diabetes must consider when counting carbohydrates: carbohydrate ratio and correction factor. 
+----- 
+U100 -> fast acting insulin [used for the pod 72h obtained from pharmacy] [can't use U200 or others because the delivery is too high] 
+----- 
+1. Is there a cure for diabetes?  
+- no. it is a long-term, chronic condition 
+2. glucose from 
+- carbs 
+3. examples of carbs 
+- sugar, vegetables, rice. cereal. potatoes, beans 
+4. foods without carbs 
+- oils, meat, eggs, fish, butter, nuts 
+5. organ that secrets insulin 
+- pancreas 
+6. test used to determine diabetes on person 
+A1C 
+7. time in range target 
+- 70mg/dl - 180mg/dl 
+8. factors that affect glucose levels 
+- exercise [too much or too litle] 
+9. two ways to monitor glucose levels 
+- glucometer [Self Monitoring SMBG] 
+- sensor [Continuous Monitoring CGM] 
+----- 
+----- 
+T2D [factors can ] 
+- genetics, weight, ethnicity, family history, smoking, and inactivity 
+two factors happening in the body related to insulin and development T2D 
+- insulin resistance 
+- decreased insulin production 
+optimal glucose control [target range for a person with diabetes] 
+- 70-180mg/dl 
+options for treatment for Type 2 diabetes 
+- exercise [physical activities] 
+- healthy diet 
+- weight loss 
+two types of insulin 
+- basal insulin [overnight, between meals] [one unit per hour] 
+- bolus insulin [before meals, OR WHEN glucose is high] [dosed manually] [requires a calculator] 
+calculator : input: carbs, BG | output: units [insulin units] 
+
+types diabetes 
+- 90-95% Type 1 [Omnipod] 
+- 5-10 Type 2 
+
+long term complications of high glucose levels: 
+- microvascular disease [kidney and eye disease] 
+- acidity in the blood 
+- heart disease 
+- stroke 
+-----  
+Hypoglycemia or 'low blood glucose' is medically defined as blood glucose below 70mg/dl  (3.9mmol/L) 
+
+If hypoglycemia is left untreated, it could lead to unconsciousness, seizures or even death.  
+
+mmol/L * (18) = mg/dL 
+
+common symptoms: 
+shaky. sweaty, dizzy, confusion and difficulty speaking, hungry, weak or tired, headeache, nervous or upset 
+
+in case of hypoglycemia: 
+check BG 
+15grams of fast acting carbs 
+15 min interval => check BG 
+adminiter glucagon 
+------ 
+What could cause hypoglycemia?: 
+-Too much insulin or diabetes medications 
+-Exercise or physical activity without adjusting medication or food intake 
+-Not eating enough carbohydrates for the insulin in the body 
+-Timing of insulin/medications
+-Alcohol consumption 
+----- 
+The "Rule of 15" 
+Consume at least 15 grams of fast acting carbohydrates (see examples of carbs to your right) 
+Wait 15 minutes and then recheck BG levels 
+If BG is still less than 70 mg/dL  (3.9mmol/L) or symptoms persist, repeat the Rule of 15 
+If BG is greater than 80 mg/dL (4.4 mmol/L), follow with a snack or meal 
+----- 
+Hyperglycemia is abnormally high levels of glucose (greater than 180mg/dl or 10 mmol/L) in 
+the blood. 
+It occurs when the body does not produce or have enough insulin to use. Some causes may be not having enough insulin for the amount of carbohydrates consumed, stress, illness, expired insulin or lack of insulin delivery from an insulin pump.  
+
+What can cause hyperglycemia? 
+-Not taking enough insulin for glucose needs 
+-Illness, stress, or infection that raises glucose levels 
+-Certain medications, such as steroids or chemotherapy 
+-Using expired insulin 
+-Not taking the correct amount of insulin for the food consumed 
+
+I-nsulin pump infusion site that is not working 
+------ 
+Why is hyperglycemia a concern? 
+Long term, high blood glucose, can result in 'microvascular' and 'macrovascular' complications.  
+Hyperglycemia can damage the vessels that supply blood to vital organs, which can increase the risk of heart disease and stroke, kidney disease, vision problems, and nerve problems.  
+------ 
+Hyperglycemia symptoms can include excessive thirst, blurred vision, frequent urination, and increased hunger. 
+----- 
+Diabetic Ketoacidosis or "DKA" is a life threatening  
+condition where the body begins to break down fat for energy in place of glucose. This happens because there is not enough circulating insulin in the body to allow the cells to receive glucose. 
+The body will try to compensate by breaking down fat & protein to use for energy. This event produces ketones in the blood, which creates an acidic environment. 
+Acidic blood can cause DKA--which can cause a loss of consciousness, swelling in the brain, diabetic coma and even death. 
+-----
+OMNIPOD5 => ONLY one with a sensor [ContinuousGM]  
+
+ 
