@@ -179,19 +179,21 @@ OMNIPOD5 => ONLY one with a sensor [ContinuousGM]
 2000
 
 2. What is Insulet’s customer care number? 
-1-800-591-3455 option 4
+1-800-591-3455 option 4 [omnipod.com/contact-us]
 
 3. What are our hours for product support? 
 24/7 365 [omnipod.com/contact-us]
 
 4. Up to how many hours can the Pod be worn? 
-72h
+72h | +8hrs [reserve]
 
 5. What are the benefits of Omnipod therapy instead of multiple daily injections?  
 tubeless insulin pump, discreet, waterproof / Each Pod delivers insulin nonstop for 3 consecutive days (up to 72 hours)
+stable glucose levels, pain free
 
 6. Why is Omnipod used by thousands of people with both Type 1 and Type 2 insulin-requiring diabetes? 
-If insulin therapy is needed, Omnipod DASH® Insulin Management System allows people with Type 2 & 1 diabetes to manage their blood sugar without multiple daily injections. 
+If insulin therapy is needed, Omnipod DASH® Insulin Management System allows people with Type 2 & 1 diabetes to manage their blood sugar without multiple daily injections.
+waterproof, freedom [72hrs delivery], discret, tubeless insulin pump 
 
 7. What brand is the food library in the DASH PDM? 
 Podder® | The CalorieKing®
