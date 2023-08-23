@@ -243,3 +243,49 @@ Check your blood glucose:
 16. What can be found on page 48 of the Patient Resource Guide? 
 How to Create and Use Temp Basal Presets
 -----
+Self Monitoring of Blood Glucose
+SMBG is ideally the first task that a doctor or nurse may give a person when they are determining the diagnosis of diabetes.  
+SMBG only tells you what your current glucose is...NOT the direction it is heading.
+-----
+CGM is able to monitor the glucose levels every 5 minutes...and it can tell the direction of where the glucose is heading!
+-----
+Insulin cannot be ingested by mouth. It is  taken by injection(needle), insulin pen or insulin pump.
+Insulin pumps use rapid or short-acting insulin. Remember those words and bolus and basal?  Insulin pumps provide a small amount of continuous insulin called the BASAL RATE.
+And the user can take a BOLUS of insuline to cover carbs eaten to correct a high blood glucose.
+-----
+Insulin pumps provide a number of features to help the user control their glucose. The pumps use a 'bolus calculator' to help determine the amount of insulin needed.  Let's look at some these options.
+
+BASAL => steady flow of insulin
+
+ The calculator in the insulin pump needs to know what glucose levels are acceptable and desired.  The healthcare provider will provide the user with a target range that the Bolus Calculator can use to help recommend the right amount of insulin.  
+ The insulin to carbohydrate or IC Ratio specifies how many carbohydrates are covered by one unit of insulin. The user needs to enter the grams of carbohydrates consumed and the Bolus calculator will recommend the amount of insulin to 'cover' the grams of carbohydrates consumed.
+ The CORRECTION FACTOR defines how much one unit of insulin will lower the blood glucose (sometimes this is called the Sensitivity Factor--how sensitive are you to 1 unit of insulin?). For example, if the Correction Factor is 50, one unit of insulin will lower the glucose level by 50mg/dl (2.8mmol/L).
+
+bolus calculator -> grams of carbs / unit of insuline
+
+INSULINE ACTION
+The duration of Insulin Action is the length of time that insulin stays active in the body -or how long a bolus of insulin takes to finish lowering the blood glucose. Insulin doesn't work the same for everyone with diabetes, so this setting helps the pump recognize insulin activity in the user.
+This setting helps prevent the user from taking  boluses too close together which could cause hypoglycemia.
+Insulin Action is set in hours.
+
+INSULINE ON BOARD (IOB)
+The IOB helps determine how much insulin is still active inside the body from the previous bolus dose. It uses the Insulin Action time to help determine this.
+For example: Insulin Action is set at 4 hours and Victor delivers 4 units of insulin.
+
+        Just after the bolus, there are 4 units of insulin working in his system
+
+        After 1 hour:   3 units of insulin left working in his system - 3 units IOB
+
+        After 2 hours: 2 units of insulin left working in his system - 2 units IOB
+
+        After 3 hours: 1 unit of insulin left working in his system -  1 unit IOB
+
+        After 4 hours: 0 units left - 0 IOB
+-----
+The insulin pump delivers insulin through the infusion site.  A small 'cannula' is inserted under the skin with a needle 
+-----
+A closed loop or AID system use a continuous glucose monitor (CGM) and a smart algorithm to automatically adjust insulin delivery via the pump.  
+The goal of these products is to reduce or eliminate hypoglycemia, improve time in range and reduce hyperglycemia.
+-----
+Continuous Glucose Monitor -> is NOT INSULINE DELIVERY
+-----
