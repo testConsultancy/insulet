@@ -182,7 +182,7 @@ OMNIPOD5 => ONLY one with a sensor [ContinuousGM]
 1-800-591-3455 option 4
 
 3. What are our hours for product support? 
-24/7 365
+24/7 365 [omnipod.com/contact-us]
 
 4. Up to how many hours can the Pod be worn? 
 72h
