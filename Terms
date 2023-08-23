@@ -1,0 +1,44 @@
+BG = Blood Glucose => sugar levels 
+
+DNS = Date Not Specified => 5 – 7 delivery days 
+
+DS = Date specified => delivered following business day 
+
+CPS = Clinical Product Specialist => Diabetes Expert 
+
+AXID = customer ID 
+
+RMA = Return Mailing Authorization 
+
+RMA = Return Mailing Label 
+
+SMBG = Self Monitoring Blood Glucose 
+
+CGM = Continuous Glucose Monitor [sensor] 
+
+PDM = Personal Diabetes Manager 
+
+CONTROLLER 
+Eros 
+Dash 
+op5 
+Humalog 
+Pod pal
+Acknowledgement statement = verify facts with customer [resume, paraphrasing, acknowledging] 
+I will be glad to assist you | I am glad to assist you 
+I will transferring you to xxx. Is there anything else I can do for you?  
+I am gathering information. Let me put you on hold, I will be right back with you. 
+
+Lot numbers = numbers and letters 
+Sequence numbers = only number 
+
+IF blood glucose > 250 mg/dL  
+THEN pod must be sent back [returned] 
+
+IF called previously 
+THEN review cases 
+
+HIPAA = DOB + shipping address [name of customer] 
+
+hyperglycemia -> high -> DKA -> Diabetes Keteadoses 
+hypoglycemia -> low 
