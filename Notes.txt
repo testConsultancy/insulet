@@ -417,5 +417,43 @@ sim card
 SmartAdjust technology
 DexcomG6 -> transmitter [automated mode in app]
 - dexcomG6 app -> alarms and alerts from DexcomG6 transmitter
+- connects only to 2 devices simultanously [dexcomG6 controller must be off] [must be only used with app]
 
 user values + algorithm 
+
+OMNIPOD5
+SmartAdjust technology -> 60 minutes in the future -> predicts values -> adjust insuline delivery "units" according to what's set up and whats present
+
+settings are lost when changing back and forth between controller and app
+
+UNCOMPATIBLE phone -> use controller !
+- dexcom app [phone] + controller [pod]
+
+g6 App [displays G6 values:]
+- start end sensor sessions
+- gcm value and trends
+- alerts and alarms
+- troubleshooting guide
+
+OMNIPOD5 Lot number start with PP1K or PH1K
+
+POD device items:
+        adhesive backing
+        pink slide
+        fill port 
+        air vent 
+        papaer covering for adhesive backing 
+        clear needle tab
+
+only the indicated insuline brands is reimbursed [U100] 
+        other U100 brand work but they're not reimbursed
+        other i.e u400 will not work
+
+purple -> automated
+SmartAdjust -> automatically adjust insuline delivery [every 5 minutes] according to readings [sensor] and predictions [60 minutes ahead] [based on current CGM value and trend]
+
+blue -> manual
+MANUAL MODE: basal program [basal rate] set up by user 
+
+SmartAdjust -> constant insulin adjusment [to remain within target BG] [70-180 mg/dl]
+
