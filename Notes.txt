@@ -470,4 +470,6 @@ Omnipod System:
                 radio frequency
                 it has buttons
                 Lot number -> start with L
-
+-----
+omnipod DASH -> PIN CODE = last 4 digits of SERIAL NUMBER [back side of device]
+-----
