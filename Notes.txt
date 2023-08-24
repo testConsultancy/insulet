@@ -457,3 +457,5 @@ MANUAL MODE: basal program [basal rate] set up by user
 
 SmartAdjust -> constant insulin adjusment [to remain within target BG] [70-180 mg/dl]
 
+Glooko account -> cloud service -> user information -> transferred -> sim card, wifi, phone
+
