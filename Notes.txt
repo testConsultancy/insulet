@@ -371,7 +371,7 @@ pump?
 ------
 REPLACEMENT:
 90 days -> transmitter
-10 dyas -> sensor
+10 days -> sensor
 3 days -> pod
 -----
 pdm = personal diabetes Manager
@@ -381,7 +381,7 @@ sequence number -> on pod
 -----
 PD1 | PS1 -> omnipod DASH pod lot numbers [start with]
 -----
-90 days -> pdm | controller [HISTORY -> pacient data, BG readings, alarms, notifications]
+90 days -> pdm | controller [HISTORY -> pacient data, BG readings, alarms, alerts, notifications]
 -----
 DASH -> connects to wifi [data on cloud]
 -----
@@ -409,3 +409,13 @@ delivery commands [pod to pdm communication]
 5 ft
 * pairing -> touching each others
 -----
+** AID **
+cgm values -> current and predicted values
+manual inputs -> high or low, alerts, boluses
+app can be used on compatible devices -> free app [controller and app cannot be used together]
+sim card
+SmartAdjust technology
+DexcomG6 -> transmitter [automated mode in app]
+- dexcomG6 app -> alarms and alerts from DexcomG6 transmitter
+
+user values + algorithm 
