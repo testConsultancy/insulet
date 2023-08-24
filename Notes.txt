@@ -473,3 +473,5 @@ Omnipod System:
 -----
 omnipod DASH -> PIN CODE = last 4 digits of SERIAL NUMBER [back side of device]
 -----
+continuity of care
+-----
