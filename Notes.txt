@@ -381,16 +381,31 @@ sequence number -> on pod
 -----
 PD1 | PS1 -> omnipod DASH pod lot numbers [start with]
 -----
-90 days -> pdm | controller [HISTORY -> pacient data, BG readings]
+90 days -> pdm | controller [HISTORY -> pacient data, BG readings, alarms, notifications]
 -----
 DASH -> connects to wifi [data on cloud]
 -----
 PLACING SITES TO AVOID:
-scars, tattoos, mols, repeated area
-1 inche separation
-2 inches sep [abdominal area]
+scars, tattoos, moles, repeated area
+1 inche separation from previous site
+2 inches from belly button [abdominal area]
 -----
 waterproof
 - 60 min max under water
 - 25 ft deep
+-----
+REDUCES ADHESIVE:
+- body lotion
+- cream
+- oils
+[clean with warm water and soup | or alcohol -> SKIN MUST BE DRY]
+-----
+pinch method
+- when complications inserting cannula
+-----
+little fatty tissue -> pinch method -> helps in molding the tissue area
+-----
+delivery commands [pod to pdm communication]
+5 ft
+* pairing -> touching each others
 -----
