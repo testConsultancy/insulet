@@ -466,7 +466,8 @@ Omnipod System:
         [UST400]
                 will be discontinnued
                 3 alkaline batteries 
-                it has a glucometer
+                it has a glucometer [Integrated FreeStyle meter]
                 radio frequency
                 it has buttons
+                Lot number -> start with L
 
