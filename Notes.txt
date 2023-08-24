@@ -458,4 +458,15 @@ MANUAL MODE: basal program [basal rate] set up by user
 SmartAdjust -> constant insulin adjusment [to remain within target BG] [70-180 mg/dl]
 
 Glooko account -> cloud service -> user information -> transferred -> sim card, wifi, phone
+-----
+** EROS **
+Apidra -> 48hrs only [U-100 RAPID ACTING INSULIN]
+
+Omnipod System:
+        [UST400]
+                will be discontinnued
+                3 alkaline batteries 
+                it has a glucometer
+                radio frequency
+                it has buttons
 
