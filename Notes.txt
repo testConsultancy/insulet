@@ -111,8 +111,8 @@ calculator => input: carbs, BG | output: units [insulin units]
 - maximum number of insuline units in pod => 200u
 
 types diabetes 
-- 90-95% Type 1 [Omnipod] 
-- 5-10 Type 2 
+- 90-95% Type 2  
+- 5-10 Type 1 [Omnipod]
 
 long term complications of high glucose levels: 
 - microvascular disease [kidney and eye disease] 
@@ -198,7 +198,7 @@ If insulin therapy is needed, Omnipod DASH® Insulin Management System allows pe
 waterproof, freedom [72hrs delivery], discret, tubeless insulin pump 
 
 7. What brand is the food library in the DASH PDM? 
-Podder® | The CalorieKing®
+The CalorieKing®
 
 8. What activities can the Omnipod be worn for without needing to disconnect? 
 No need to disconnect for swimming or bathing
@@ -368,3 +368,29 @@ is given.
 16. What system has two different modes: Automated and Manual? The AID or an insulin
 pump?
 ➢ Expected answer: the AID system.
+------
+REPLACEMENT:
+90 days -> transmitter
+10 dyas -> sensor
+3 days -> pod
+-----
+pdm = personal diabetes Manager
+-----
+pod lot number -> on box
+sequence number -> on pod
+-----
+PD1 | PS1 -> omnipod DASH pod lot numbers [start with]
+-----
+90 days -> pdm | controller [HISTORY -> pacient data, BG readings]
+-----
+DASH -> connects to wifi [data on cloud]
+-----
+PLACING SITES TO AVOID:
+scars, tattoos, mols, repeated area
+1 inche separation
+2 inches sep [abdominal area]
+-----
+waterproof
+- 60 min max under water
+- 25 ft deep
+-----
