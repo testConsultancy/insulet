@@ -475,3 +475,4 @@ omnipod DASH -> PIN CODE = last 4 digits of SERIAL NUMBER [back side of device]
 -----
 continuity of care
 -----
+beep twice -> 85 units lower limit reached -> when starting to fill the pod
