@@ -671,3 +671,18 @@ ii. If a customer discards a pod they should be reminded to â€˜silence the Podâ€
 
 Pod could still be active and it will alarm at the end of 80 hours of life
 -----
+HIPPA
+        Last name [first and last name]
+        DOB
+        Shipping address
+        ---
+        calling on behalf someone:
+                complete name of person calling and person calling on behalf
+                DOB
+                shipping address
+                ---
+                reason for calling
+                relationship
+-----
+hi thank you for calling xxx, my name is xxx, what kind of system do you have?
+-----
