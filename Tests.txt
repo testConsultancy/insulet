@@ -155,179 +155,101 @@ pump?
 When and How to Remove a Pod
 
 1. It is important to ensure the customer has supplies to provide insulin using another delivery method
-
 BEFORE removing a Pod. Can you name some examples of supplies a customer might need prior to
-
 removing a Pod?
-
 a. Expected Responses:
-
 i. a new unopened Pod, alcohol wipe and rapid acting U-100 insulin
-
 ii. OR injections through syringes using appropriate long and rapid acting insulin.
 
-
 2. Why is it so important to ensure the customer receives ongoing insulin delivery?
-
 a. Expected Responses:
-
 i. To avoid hyperglycemia and potential DKA (diabetic ketoacidosis)
 
- 
 3. We watched a few videos to learn about when a Pod change might be required. Can you name some
-
 of the scenarios when a customer should change their Pod?
-
 a. Expected Responses:
-
 i. Low or Empty Pod Reservoir – meaning that the Pod’s reservoir is either low on
-
 insulin or completely out of insulin
-
 ii. Pod Expiration – meaning the Pod has been active for 72-hours and has expired. If
-
 for some reason the customer cannot change their Pod right at the 72-hour mark,
-
 that is okay. The Pod will continue to deliver any remaining insulin for an additional
-
 8 hours (or 80 hours). This is true for both the Omnipod DASH and Omnipod System.
-
 iii. Removed from Site – meaning that the Pod has come off the customer’s body, or
-
 the customer has any kind of unplanned removal of the Pod. We will learn more
-
 about how to help customers in these scenarios later in training
-
- 
 iv. Hazard Alarm – during a Pod error hazard alarm or occlusion alarm, the PDM will tell
-
 the customer to change the Pod because insulin delivery has stopped.
 
 v. Signs of infection – these include
-
 1. Pain at the Pod site
-
 2. Swelling
-
 3. Redness
-
 4. Discharge (which can look like clear fluid at the insertion site)
-
 5. Heat at the insertion site
 
-
 What should a customer do if they suspect an infection?
-
 a. Expected Responses:
-
 i. Immediately remove the Pod and apply a new Pod in a different location.
-
 ii. Recommended to contact their healthcare provider.
 
-
 5. What is the first step a customer must take to begin the process of removing a Pod?
-
 a. Expected Responses:
-
 i. Deactivate if using the PDM/App
 
 
 6. Please walk me through the steps to take in the Omnipod System PDM to deactivate a Pod?
-
 a. Expected Responses:
-
 i. Wake up the PDM > Confirm ID > Select More Actions > Select Change Pod > Select
-
 Confirm
 
 
 7. Fantastic! How would we do this in the Omnipod DASH PDM?
-
 a. Expected Responses:
-
 i. Wake and unlock the PDM > Tap on the Pod info Tab > Tap View Pod details > Tap
-
 Change Pod > Tap Deactivate Pod
-
 Moving to Pod Information/PDM/App Numbers
-
  
 8. What does the Lot number of each Pod for each product start with?
-
 a. Expected Responses:
-
 i. Omnipod System L
-
 ii. Omnipod DASH PD or PS
-
 iii. Omnipod 5 PP1K or PH1K
 
-
 9. In Omnipod 5 you can find the Lot and Sequence number for the past 90 days. Where do you need
-
 to look?
-
 a. Expected Response: Menu > History Detail > Summary
-
  
 10. The serial number is on the back of the Omnipod System and DASH.
-
 It is found in what screen in  the Omnipod DASH and the Omnipod 5 App?a. Expected Response: About Screen
 
-
 11. The Pod Adhesive is latex free: True or False?
-
 a. Expected Response: Yes…It is acrylic based. There are no corn, wheat or gluten products in
-
 the adhesive
-
  
 12. True or False: While the DASH pod currently has a blue needle cap, all three product Pods will soon
-
 have the clear needle cap?
-
 a. Expected Answer: That is true. The clear needle cap for the DASH is anticipated to start
-
 shipping end of 2022.
-
  
 13. What is the ‘pink slide’ and why is it important?
-
 a. Expected Answers: Needle deployment can be confirmed by looking for the advancement
-
 of the pink slider. When the needle and cannula are inserted, this pink slide moves forward
-
 and catches, causing the blue cannula to stay in place in the skin while the needle retracts.
-
 b. The pink slide is an outside indicator that the needle was deployed.
-
  
 14. What are the steps to silence a Pod alarm…or manually shut it off ?
-
 a. Expected Answer: Peel back the adhesive on the flat end of the Pod. Look for the gold circle
-
 in the middle. Next to that on the right is the alarm shut-off port. Take a paper clip or
-
 thumb tack and push the sharp end into that port, breaking the plastic sheath. This will
-
 stop the Pod from alarming.
 
-
 15. What is the difference between deactivating a Pod and Discarding a Pod?
-
 a. Expected Answer: Deactivating breaks the connection between the Pod and PDM and stop
-
 insulin delivery in the Pod.
-
 b. Discarding a Pod only breaks the connection between the Pod and PDM. The Pod could
-
 still be delivering insulin.
-
 i. Discarding is done when communication with the Pod and PDM are not
-
 communicating enough to deactivate.
-
 ii. If a customer discards a pod they should be reminded to ‘silence the Pod’ as that
-
 Pod could still be active and it will alarm at the end of 80 hours of life
 -----
